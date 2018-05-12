@@ -2,13 +2,13 @@
 
 var names, text, list, i;
 pers1 = ["Gabriella Charming", "25 years", ["Justin Timberlake", " Ed Sheeran", " Emma Watson"]];
-pers2 = ["Stephanie Cutie", "21 years", ["Michael Jackson", "Avicii", "Rita Ora"]];
-pers3 = ["Michelle Lovely", "23 years", ["Jason Derulo", "David Guetta", "Felix Jaehn"]];
-pers4 = ["Vanessa Delightful", "28 years", ["Axwell", "G-Eazy", "Daddy Yankee"]];
-pers5 = ["Ashley Stunning", "35 years", ["Chris Brown", "Sia", "The Chainsmokers"]];
-pers6 = ["Alex Graceful", "28 years", ["Maroon 5", "Sean Paul", "Imagine Dragons"]];
-pers7 = ["Tom Elegant", "38 years", ["Eminem", "Kygo", "Marshmello"]];
-pers8 = ["David Handsome", "33 years", ["The Weeknd", "Pitbull", "Fedde Le Grand"]];
+pers2 = ["Stephanie Cutie", "21 years", ["Michael Jackson", " Avicii", " Rita Ora"]];
+pers3 = ["Michelle Lovely", "23 years", ["Jason Derulo", " David Guetta", " Felix Jaehn"]];
+pers4 = ["Vanessa Delightful", "28 years", ["Axwell", " G-Eazy", " Daddy Yankee"]];
+pers5 = ["Ashley Stunning", "35 years", ["Chris Brown", " Sia", " The Chainsmokers"]];
+pers6 = ["Alex Graceful", "28 years", ["Maroon 5", " Sean Paul", " Imagine Dragons"]];
+pers7 = ["Tom Elegant", "38 years", ["Eminem", " Kygo", " Marshmello"]];
+pers8 = ["David Handsome", "33 years", ["The Weeknd", " Pitbull", " Fedde Le Grand"]];
 
 // text for every person, like Name:, Age: etc
 
