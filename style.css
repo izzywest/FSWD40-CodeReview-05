@@ -38,7 +38,8 @@ body {
     margin: 1%;
     background-color: #ffffff;
     border: 1px solid black;
-    background: rgba(255, 255, 255, 0.7);
+    background: rgba(255, 255, 255, 0.9);
+    text-align: center;
 }
 
 .transparentDiv.p1.header {
@@ -62,6 +63,7 @@ img {
     width: 50%;
     height: auto;
     opacity: 1;
+    border-radius: 4px;
 }
 
 ul li {
